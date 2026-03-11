@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webmark Solution 🌐
 
 **Webmark Solution** is a modern and responsive website built to showcase professional web development services for businesses, schools, restaurants, and freelancers.
@@ -68,3 +69,7 @@ Email: [webmarksolution@gmail.com](mailto:webmarksolution@gmail.com)
 ## 📄 License
 
 This project is open for learning and portfolio purposes.
+=======
+# Webmark-Solution
+Webmark Solution – A modern responsive website showcasing web development services for businesses, schools, restaurants, and freelancers.
+>>>>>>> 0099d6612402ced62829a2eff1cd64e77e18b19f
